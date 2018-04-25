@@ -6,3 +6,4 @@
 ## Demo
 
 * [One](http://gkbi.top/Game/One/game.html)
+* [Two](http://gkbi.top/Game/Two/game.html)

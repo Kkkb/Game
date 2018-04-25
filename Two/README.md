@@ -1,6 +1,6 @@
-## One
+## Two
 
-* [One](http://gkbi.top/Game/Two/game.html)
+* [Two](http://gkbi.top/Game/Two/game.html)
  
  * Keyboard Bindings
    - `A`  move left
