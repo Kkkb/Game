@@ -1,6 +1,6 @@
 ## Four
 
-* [Four](http://gkbi.top/Game/Four/game.html)
+* [Four](http://gkbi.top/Game/four/game.html)
  
  * Keyboard Bindings
    - `A`  move left
