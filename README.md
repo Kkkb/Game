@@ -10,3 +10,4 @@
 * [Three](http://gkbi.top/Game/Three/game.html)
 * [Four](http://gkbi.top/Game/four/game.html)
 * [Five](http://kkkb.github.io/Game/Five/game.html)
+* [Six](http://kkkb.github.io/Game/Six/game.html)
