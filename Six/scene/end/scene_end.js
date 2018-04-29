@@ -54,6 +54,7 @@ class SceneEnd extends KScene {
         this.game.context.font = "50px yahei"
         this.game.context.fillText('游戏结束', 300, 200)
         this.game.context.font = "20px yahei"
+        this.game.context.fillText('得分：' + this.game.score, 360, 233)
         this.game.context.fillText('按 r 重玩', 360, 260)
         this.game.context.fillStyle = "#223"
         // draw gameover

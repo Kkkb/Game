@@ -4,6 +4,7 @@ class KGame {
         window.fps = fps
         this.images = images
         this.runCallback = runCallback
+        this.score = 0
         //
         this.scene = null
         this.actions = {}

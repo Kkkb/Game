@@ -60,6 +60,8 @@ var Scene = function(game) {
         game.context.font = "18px yahei"
         game.context.fillStyle = 'white'
         game.context.fillText('分数：' + s.score, 10, 590);
+        game.context.fillText('F: 发射  A: 左  D: 右', 630, 590);
+
 
     }
     s.update = function() {
@@ -90,6 +92,7 @@ var Scene = function(game) {
                 ball.反弹()
                 // 更新分数
                 s.score += 10
+                game.score = s.score
             }
         }
     }
